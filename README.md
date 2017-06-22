@@ -1,5 +1,6 @@
-# Rectangle
+# React
 It is a new Modelling Creation Tool for RedoxOS
-Written in Rust
+Written
+Written in Rust!
 
 ## 
