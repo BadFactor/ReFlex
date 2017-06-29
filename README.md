@@ -1,10 +1,17 @@
 # React
 It is a new Modelling Creation Tool for RedoxOS
 
-+ Written in Rust!
++ Completly written in Rust!
++ Parallel Coding
++ Multithreading
+
+
++ Vulkan API
++ Without OpenGL Rendering or compatibilty or such "nonsense" stuff
+
 
 ## Support
 
 + Vulkan Rendering Engine
- + Name: ReactEngine
+  + Name: ReactEngine
 + Cycles Rendering Engine
