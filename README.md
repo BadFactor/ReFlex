@@ -27,6 +27,9 @@ It is a new Modelling Creation Tool for RedoxOS
     + texture bake feature
 
 ## CONCEPTUAL UI DESIGN
+
+With this kinda like Showcase, i would suggest just this clean look, how Reflex could look like!
+
 ![Screenshot](Blender_on_windows_10.png)
 
 THIS IS FROM A DEVIANART USER CALLED bannax1994
