@@ -36,7 +36,7 @@ This could be an example Of the new UI Design
  + Everything is in the sidebar, where u can find everything u need to build and Render, via a dropdown menu
  + Sidebar can be stay left or on the right of the main rendering window "panel"!
 
-![Screenshot](Reflex.png)
+![Screenshot](reflex.png)
 
 
 http://bannax1994.deviantart.com
